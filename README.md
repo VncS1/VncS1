@@ -1,6 +1,5 @@
 ### Olá 👋, me chamo Vinicius
 
-Hi 👋, I'm Adilson Oliveira
 =================================
 
 Frontend Developer
