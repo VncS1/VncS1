@@ -28,7 +28,7 @@
 
 <div align="left">
   <a href="https://portfolio-vncs1.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio logo" />
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio logo" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/vinicius-machioni/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VncS1/VncS1/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/VncS1/developerleomoraes/blob/output/github-contribution-grid-snake.svg)
 
 ###
