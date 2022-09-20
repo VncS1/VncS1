@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=VncS1" height="150" alt="languages graph"  />
 </div>
 
-###Skills
+### Skills
 
 <div align="left">
  
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
 </div>
 
-###Socials
+### Socials
 
 <div align="left">
   <a href="https://portfolio-vncs1.vercel.app/" target="_blank">
