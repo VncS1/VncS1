@@ -15,6 +15,8 @@
 
 ###
 
+#Skills
+
 <div align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -27,6 +29,8 @@
 </div>
 
 ###
+
+#Socials
 
 <div align="left">
   <a href="https://portfolio-vncs1.vercel.app/" target="_blank">
