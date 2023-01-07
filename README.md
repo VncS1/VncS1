@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estou no terceiro período do curso de Ciência da Computação da PUC Minas do Campus de Poços de Caldas.<br><br>- Atualmente estou aprendendo Typescript e ReactJS.</p>
+<p align="left">- Estou no quarto período do curso de Ciência da Computação da PUC Minas do Campus de Poços de Caldas.<br><br>- Atualmente estou aprendendo Typescript e ReactJS.</p>
 
 <hr />
 
