@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Formado no curso de Ciência da Computação da PUC Minas do Campus de Poços de Caldas.<br><br>- Atualmente estou focado Typescript, ReactJS e TailwindCSS.</p>
+<p align="left">- Formado no curso de Ciência da Computação da PUC Minas do Campus de Poços de Caldas.<br><br>- Atualmente estou focado em ReactJs, Laravel, Typescript e TailwindCSS.</p>
 
 <hr />
 
