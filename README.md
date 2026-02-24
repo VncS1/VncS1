@@ -40,8 +40,7 @@ Extensão Chrome em React que analisa automaticamente a acessibilidade de págin
 🔗 <a href="https://github.com/VncS1/accessible-web">Ver no GitHub</a>
 
 </p>
-### Skills
-
+<h2 align="center">Habilidades</h2> 
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -53,7 +52,7 @@ Extensão Chrome em React que analisa automaticamente a acessibilidade de págin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
 </div>
 
-### Socials
+<h2 align="center">Social</h2> 
 
 <div align="left">
   <a href="https://portfolio-vncs1.vercel.app/" target="_blank">
