@@ -6,7 +6,7 @@
 ###
 
 <p align="left">
-Atuo como dev full-stack web na PUC Minas - Poços de Caldas.<br />
+Atuo como desenvolvedor full-stack web na PUC Minas - Poços de Caldas.<br />
 Apaixonado por transformar ideias em interfaces funcionais,<br />
 e por resolver problemas reais com código e criatividade.<br /><br />
 
