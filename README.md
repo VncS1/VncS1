@@ -32,7 +32,7 @@ Plataforma inteligente de agendamento de serviços que conecta profissionais e c
 <code>ReactJS</code> • <code>TailwindCSS</code> • <code>Laravel</code>  
 🔗 <a href="https://github.com/VncS1/slotly">Ver no GitHub</a>
 
-<br><br>
+<br>
 
 🔹<strong><span>Accessible Web</span></strong><br>
 Extensão Chrome em React que analisa automaticamente a acessibilidade de páginas web com axe-core, gera uma pontuação visual e permite que usuários autenticados avaliem o site, armazenando feedback no Firebase. <br>
