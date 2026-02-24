@@ -1,17 +1,23 @@
-<h2 align="left">Olá 👋! Me chamo Vinicius.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Vinicius+Machioni;Full-Stack+Developer" alt="Typing SVG" />
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="470px" align="right">
 
 ###
 
-<p align="left">- Formado no curso de Ciência da Computação da PUC Minas do Campus de Poços de Caldas.<br><br>- Atualmente estou focado em ReactJs, Laravel, Typescript e TailwindCSS.</p>
+<p align="left">
+Atuo como dev full-stack web na PUC Minas - Poços de Caldas.<br />
+Apaixonado por transformar ideias em interfaces funcionais,<br />
+e por resolver problemas reais com código e criatividade.<br /><br />
 
+✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.<br />
+Atualmente focado em me aprofundar em React, Next.js, Laravel e boas práticas de acessibilidade e performance.<br /><br />
 <hr />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=VncS1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=VncS1" height="150" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VncS1&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+
 
 ### Skills
 
