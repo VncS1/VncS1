@@ -54,7 +54,7 @@ Extensão Chrome em React que analisa automaticamente a acessibilidade de págin
 
 <h2 align="center">Social</h2> 
 
-<div align="left">
+<div align="center">
   <a href="https://portfolio-vncs1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio logo" height="35"/>
   </a>
@@ -75,5 +75,3 @@ Extensão Chrome em React que analisa automaticamente a acessibilidade de págin
 ###
 
 <br clear="both">
-
-<!-- ![Snake animation](https://github.com/VncS1/developerleomoraes/blob/output/github-contribution-grid-snake.svg) -->
