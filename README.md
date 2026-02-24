@@ -16,7 +16,9 @@ Atualmente focado em me aprofundar em React, Next.js, Laravel e boas práticas d
 
 ###
 
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VncS1&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+</div>
 
 <h2 align="center">Projetos</h2>  
 <p align="center">
@@ -25,24 +27,23 @@ Atualmente focado em me aprofundar em React, Next.js, Laravel e boas práticas d
 
 <p align="left">
 
-🔹 <strong><p>Slotly</p></strong><br>
+🔹<strong><p>Slotly</p></strong><br>
 Plataforma inteligente de agendamento de serviços que conecta profissionais e clientes de forma ágil e sem conflitos de horário.<br>
 <code>ReactJS</code> • <code>TailwindCSS</code> • <code>Laravel</code>  
 🔗 <a href="https://github.com/VncS1/slotly">Ver no GitHub</a>
 
 <br><br>
 
-🔹 <strong><a href="https://github.com/agostinhomarcia/binance" target="_blank">Accessible Web</a></strong><br>
+🔹<strong><a href="https://github.com/agostinhomarcia/binance" target="_blank">Accessible Web</a></strong><br>
 Extensão Chrome em React que analisa automaticamente a acessibilidade de páginas web com axe-core, gera uma pontuação visual e permite que usuários autenticados avaliem o site, armazenando feedback no Firebase. <br>
 <code>ReactJS</code> • <code>Firebase</code> • <code>TailwindCSS</code>  
 🔗 <a href="https://github.com/VncS1/accessible-web">Ver no GitHub</a>
 
 </p>
-
 ### Skills
 
-<div align="left">
- 
+<div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
