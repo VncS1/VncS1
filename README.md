@@ -11,7 +11,7 @@ Apaixonado por transformar ideias em interfaces funcionais,<br />
 e por resolver problemas reais com código e criatividade.<br /><br />
 
 ✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.<br />
-Atualmente focado em me aprofundar em React, Next.js, Laravel e boas práticas de acessibilidade e performance.<br /><br />
+Atualmente focado em me aprofundar em React, Next.js, NodeJs, Laravel e boas práticas de acessibilidade e performance.<br /><br />
 <hr />
 
 ###
