@@ -55,7 +55,7 @@ Extensão Chrome em React que analisa automaticamente a acessibilidade de págin
 <h2 align="center">Social</h2> 
 
 <div align="center">
-  <a href="https://portfolio-vncs1.vercel.app/" target="_blank">
+  <a href="https://machioni.dev.br/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio logo" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/vinicius-machioni/" target="_blank">
