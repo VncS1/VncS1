@@ -1,77 +1,106 @@
+<h1 align="center">Vinicius Machioni</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Vinicius+Machioni;Full-Stack+Developer" alt="Typing SVG" />
+  <strong>Front-End Engineer</strong> &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="470px" align="right">
 
-###
-
-<p align="left">
-Atuo como desenvolvedor full-stack Pleno na GrandPneus - Poços de Caldas.<br />
-Apaixonado por transformar ideias em interfaces funcionais,<br />
-e por resolver problemas reais com código e criatividade.<br /><br />
-
-✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.<br />
-Atualmente focado em me aprofundar em React, Next.js, NodeJs, Laravel e boas práticas de acessibilidade e performance.<br /><br />
-<hr />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VncS1&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
-</div>
-
-<h2 align="center">Projetos</h2>  
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200">
+  Accessibility (WCAG) and web performance — with full-stack range in Node.js, REST APIs and PostgreSQL
 </p>
 
-<p align="left">
-
-🔹<strong><span>Slotly</span></strong><br>
-Plataforma inteligente de agendamento de serviços que conecta profissionais e clientes de forma ágil e sem conflitos de horário.<br>
-<code>ReactJS</code> • <code>TailwindCSS</code> • <code>Laravel</code>  
-🔗 <a href="https://github.com/VncS1/slotly">Ver no GitHub</a>
-
-<br>
-
-🔹<strong><span>Accessible Web</span></strong><br>
-Extensão Chrome em React que analisa automaticamente a acessibilidade de páginas web com axe-core, gera uma pontuação visual e permite que usuários autenticados avaliem o site, armazenando feedback no Firebase. <br>
-<code>ReactJS</code> • <code>Firebase</code> • <code>TailwindCSS</code>  
-🔗 <a href="https://github.com/VncS1/accessible-web">Ver no GitHub</a>
-
+<p align="center">
+  <a href="https://machioni.dev.br"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/viniciusmachioni/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:machioni.dev@gmail.com">machioni.dev@gmail.com</a>
 </p>
-<h2 align="center">Habilidades</h2> 
-<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
-</div>
+<p align="center">
+  <em>Based in Brazil (UTC−3) · open to 100% remote roles worldwide</em>
+</p>
 
-<h2 align="center">Social</h2> 
+---
 
-<div align="center">
-  <a href="https://machioni.dev.br/" target="_blank">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio logo" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/viniciusmachioni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/viniciusmachioni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a mailto="machioni.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.behance.net/viniciumachioni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-</div>
+## About
 
-###
+Front-end engineer building production web applications since 2023. React, Next.js and TypeScript are the core, and I carry features past the interface when they need it — API, database, real time and deploy.
 
-<br clear="both">
+Accessibility is the through-line of my work. My thesis project was a Chrome extension that audits pages against WCAG; it grew into **Ally-AI**, a SaaS platform that turns accessibility violations into concrete code fixes. That interest also shows up in the details: keyboard navigation, ARIA semantics, contrast, and Core Web Vitals are things I check before I call a screen finished.
+
+Currently a full-stack developer at **GrandPneus**, and completing a postgraduate degree in Software Architecture at PUC-Campinas.
+
+---
+
+## Selected work
+
+| Project | What it is | Stack | |
+|---|---|---|---|
+| **[Ally-AI](https://github.com/VncS1/ally-ai)** | Accessibility auditing SaaS. Headless audit engine finds WCAG violations; AI turns each one into a plain-language explanation and a concrete code fix. Credit-based billing. | Next.js · Node.js · Puppeteer · axe-core · Gemini · Stripe · Socket.io · Turborepo | `code` |
+| **[Flowboard](https://github.com/VncS1/flowboard)** | Real-time collaborative board. Multiple users edit the same board simultaneously over WebSocket, with E2E tests validating state consistency across concurrent clients. | Next.js · Fastify · WebSocket · Playwright · TypeScript | `code` |
+| **[Slotly](https://github.com/VncS1/slotly)** | Booking and scheduling engine. Availability is computed server-side to prevent double-booking, with timezone normalization across regions. | React · Vite · TanStack · Zod · Radix UI · Laravel · MySQL | `code` |
+| **[Accessible Web](https://github.com/VncS1/accessible-web)** | Chrome extension that audits page accessibility in real time and suggests fixes. My B.Sc. thesis project — the origin of Ally-AI. | React · axe-core · Firebase · OAuth 2.0 | `code` |
+| **[PUC Minas Poços portal](https://www.pucpcaldas.br)** | University institutional portal I led the redesign of. Serving students, faculty and applicants today. | React · TypeScript · Tailwind · Laravel | `live` |
+| **[Viaja + Chris](https://viajamaiscomchris.com.br)** | Custom CRM for a travel agency — lead management, status tracking, metrics dashboard. In production for a real client. | Next.js · Prisma · Tailwind v4 | `live` |
+| **Gabarita** | Question bank for medical residency exams: PDF exam ingestion, spaced repetition, AI question generation, async queue processing. | Next.js · Prisma · pg-boss · PostgreSQL | `private` |
+
+> `code` — feature-complete and self-hostable; not currently deployed, since my free hosting and API quotas are committed to a larger project in progress. Clone instructions are in each repo. Happy to walk through any of these on a call.
+
+<!-- ─────────────────────────────────────────────────────────────
+     ADD SCREENSHOTS HERE — highest-priority improvement.
+     Nothing is deployed, so screenshots ARE the demo.
+
+     1. Create a folder `assets/` in this VncS1/VncS1 repo.
+     2. Run each project locally, screenshot the 2 best screens
+        (Ally-AI: audit dashboard + generated code fix view).
+     3. For Flowboard, record two browser windows syncing live and
+        export a GIF (ScreenToGif / Kap / LICEcap — all free).
+     4. Drop the files in assets/ and uncomment the block below.
+
+## Ally-AI
+
+<p align="center">
+  <img src="assets/ally-ai-dashboard.png" alt="Ally-AI audit dashboard" width="49%"/>
+  <img src="assets/ally-ai-fix.png" alt="AI-generated code fix for a WCAG violation" width="49%"/>
+</p>
+
+## Flowboard — two clients syncing in real time
+
+<p align="center">
+  <img src="assets/flowboard-sync.gif" alt="Two browser windows editing the same board simultaneously" width="80%"/>
+</p>
+────────────────────────────────────────────────────────────── -->
+
+---
+
+## Stack
+
+**Front-end** — React · Next.js (App Router) · TypeScript · JavaScript (ES6+) · Vue.js · Vite · Tailwind CSS · Radix UI · TanStack Router & Query · React Hook Form · Zod
+
+**Accessibility & performance** — WCAG 2.1 · axe-core · ARIA · keyboard navigation · contrast auditing · Core Web Vitals (LCP, CLS) · lazy-loading · rendering strategy
+
+**Back-end** — Node.js · Express · Fastify · REST APIs · WebSockets (Socket.io) · Prisma · C#/.NET · Laravel · Ruby on Rails
+
+**Data** — PostgreSQL · MySQL · query and index optimization
+
+**Testing & tooling** — Playwright · Vitest · Docker · Turborepo · pnpm · GitLab CI/CD · GitHub Actions · Git
+
+---
+
+## Background
+
+- **B.Sc. in Computer Science** — PUC Minas (2021–2025)
+- **Postgraduate, Software Architecture, Data Science & Cybersecurity** — PUC-Campinas / PUCPR (in progress)
+- **Technical Degree in IT** — IFSULDEMINAS
+- Brazilian Informatics Olympiad (OBI, SBC) · 3rd place, Internal Programming Olympiad (IFSULDEMINAS)
+- Portuguese (native) · English (advanced)
+
+---
+
+<p align="center">
+  <a href="mailto:machioni.dev@gmail.com">machioni.dev@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://machioni.dev.br">machioni.dev.br</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/viniciusmachioni/">LinkedIn</a>
+</p>
