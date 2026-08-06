@@ -44,8 +44,6 @@ Currently a full-stack developer at **GrandPneus**, and completing a postgraduat
 | **[Viaja + Chris](https://viajamaiscomchris.com.br)** | Custom CRM for a travel agency — lead management, status tracking, metrics dashboard. In production for a real client. | Next.js · Prisma · Tailwind v4 | `live` |
 | **Gabarita** | Question bank for medical residency exams: PDF exam ingestion, spaced repetition, AI question generation, async queue processing. | Next.js · Prisma · pg-boss · PostgreSQL | `private` |
 
-> `code` — feature-complete and self-hostable; not currently deployed, since my free hosting and API quotas are committed to a larger project in progress. Clone instructions are in each repo. Happy to walk through any of these on a call.
-
 <!-- ─────────────────────────────────────────────────────────────
      ADD SCREENSHOTS HERE — highest-priority improvement.
      Nothing is deployed, so screenshots ARE the demo.
