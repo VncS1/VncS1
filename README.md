@@ -43,33 +43,6 @@ Currently a full-stack developer at **GrandPneus**, and completing a postgraduat
 | **[Accessible Web](https://github.com/viniciusmachioni/accessible-web)** | Chrome extension that audits page accessibility in real time and suggests fixes. My B.Sc. thesis project — the origin of Ally-AI. | React · axe-core · Firebase · OAuth 2.0 | `code` |
 | **[PUC Minas Poços portal](https://www.pucpcaldas.br)** | University institutional portal I led the redesign of. Serving students, faculty and applicants today. | React · TypeScript · Tailwind · Laravel | `live` |
 | **[Viaja + Chris](https://viajamaiscomchris.com.br)** | Custom CRM for a travel agency — lead management, status tracking, metrics dashboard. In production for a real client. | Next.js · Prisma · Tailwind v4 | `live` |
-
-
-<!-- ─────────────────────────────────────────────────────────────
-     ADD SCREENSHOTS HERE — highest-priority improvement.
-     Nothing is deployed, so screenshots ARE the demo.
-
-     1. Create a folder `assets/` in this VncS1/VncS1 repo.
-     2. Run each project locally, screenshot the 2 best screens
-        (Ally-AI: audit dashboard + generated code fix view).
-     3. For Flowboard, record two browser windows syncing live and
-        export a GIF (ScreenToGif / Kap / LICEcap — all free).
-     4. Drop the files in assets/ and uncomment the block below.
-
-## Ally-AI
-
-<p align="center">
-  <img src="assets/ally-ai-dashboard.png" alt="Ally-AI audit dashboard" width="49%"/>
-  <img src="assets/ally-ai-fix.png" alt="AI-generated code fix for a WCAG violation" width="49%"/>
-</p>
-
-## Flowboard — two clients syncing in real time
-
-<p align="center">
-  <img src="assets/flowboard-sync.gif" alt="Two browser windows editing the same board simultaneously" width="80%"/>
-</p>
-────────────────────────────────────────────────────────────── -->
-
 ---
 
 ## Stack
