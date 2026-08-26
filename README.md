@@ -37,12 +37,13 @@ Currently a full-stack developer at **GrandPneus**, and completing a postgraduat
 | Project | What it is | Stack | |
 |---|---|---|---|
 | **[Gabarita](https://gabaritamed.com)** | Question bank for medical residency exams: PDF exam ingestion, spaced repetition, AI question generation, async queue processing. | Next.js · Prisma · pg-boss · PostgreSQL | `live` |
+| **[PUC Minas Poços portal](https://www.pucpcaldas.br)** | University institutional portal I led the redesign of. Serving students, faculty and applicants today. | React · TypeScript · Tailwind · Laravel | `live` |
+| **[Viaja + Chris](https://viajamaiscomchris.com.br)** | Custom CRM for a travel agency — lead management, status tracking, metrics dashboard. In production for a real client. | Next.js · Prisma · Tailwind v4 | `live` |
 | **[Ally-AI](https://github.com/viniciusmachioni/ally-ai)** | Accessibility auditing SaaS. Headless audit engine finds WCAG violations; AI turns each one into a plain-language explanation and a concrete code fix. Credit-based billing. | Next.js · Node.js · Puppeteer · axe-core · Gemini · Stripe · Socket.io · Turborepo | `code` |
 | **[Flowboard](https://github.com/viniciusmachioni/flowboard)** | Real-time collaborative board. Multiple users edit the same board simultaneously over WebSocket, with E2E tests validating state consistency across concurrent clients. | Next.js · Fastify · WebSocket · Playwright · TypeScript | `code` |
 | **[Slotly](https://github.com/viniciusmachioni/slotly)** | Booking and scheduling engine. Availability is computed server-side to prevent double-booking, with timezone normalization across regions. | React · Vite · TanStack · Zod · Radix UI · Laravel · MySQL | `code` |
 | **[Accessible Web](https://github.com/viniciusmachioni/accessible-web)** | Chrome extension that audits page accessibility in real time and suggests fixes. My B.Sc. thesis project — the origin of Ally-AI. | React · axe-core · Firebase · OAuth 2.0 | `code` |
-| **[PUC Minas Poços portal](https://www.pucpcaldas.br)** | University institutional portal I led the redesign of. Serving students, faculty and applicants today. | React · TypeScript · Tailwind · Laravel | `live` |
-| **[Viaja + Chris](https://viajamaiscomchris.com.br)** | Custom CRM for a travel agency — lead management, status tracking, metrics dashboard. In production for a real client. | Next.js · Prisma · Tailwind v4 | `live` |
+
 ---
 
 ## Stack
